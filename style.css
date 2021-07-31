@@ -1,5 +1,5 @@
 table {
-  font-family: arial;
+  font-family: Lato;
   border-collapse: collapse;
   width: 100%;
 }
@@ -19,5 +19,5 @@ center {
 }
 
 a {
-        color: #4D6466;
+        color: whitesmoke;
       }
